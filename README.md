@@ -7,15 +7,15 @@ O Aprenser é um projeto de frontend que simula a página inicial de uma platafo
 ## Screenshots
 
 **Página Inicial (Topo):**
-![Hero Section](https://i.imgur.com/YOUR_FIRST_IMAGE_URL.png)
+![Hero Section](imagens/top.png)
 *Mostra o logo, menu de navegação, slogan principal "O Saber é o que transforma nosso SER" e um botão "Saiba mais".*
 
 **Seção de Principais Cursos:**
-![Principais Cursos](https://i.imgur.com/YOUR_SECOND_IMAGE_URL.png)
+![Principais Cursos](imagens/body.png)
 *Apresenta os cursos em formato de cards, como "Design para web", "Front end developer" e "Backend developer", com um botão "ver mais cursos".*
 
 **Seção "Nossa Escola" e Contatos:**
-![Nossa Escola e Contatos](https://i.imgur.com/YOUR_THIRD_IMAGE_URL.png)
+![Nossa Escola e Contatos](imagens/footer.png)
 *Inclui uma breve descrição da escola, um mapa interativo (Google Maps) e informações de contato (endereço, telefone, email). O rodapé indica "Desenvolvido Por Pedro".*
 
 ## Funcionalidades Principais
